@@ -1,3 +1,5 @@
+Developed a few machine learning models to compare the energy consumption throughout smart homes to analyze overall consumption. Showcase the efficiency of smart homes over traditional homes, considering energy consumption. Worked on a large dataset and performed the data cleansing operations to use clean data for prediction.
+
 ### The weather and energy dataset
 The dataset contains the readings with a time span of 1 minute of house appliances in kW from a smart meter and weather conditions of that particular region.
 

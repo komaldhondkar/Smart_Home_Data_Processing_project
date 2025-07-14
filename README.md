@@ -2,7 +2,7 @@
 The dataset contains the readings with a time span of 1 minute of house appliances in kW from a smart meter and weather conditions of that particular region.
 
 #### Data Columns Descriptions:
-(source: Data Source: https://www.kaggle.com/taranvee/smart-home-dataset-with-weather-information)
+(source: Data Source: https://www.kaggle.com)
 ##### Index 
 - **time**
     * Time of the readings, with a time span of 1 minute.
